@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gfx/wait12.png</file>
+        <file>gfx/wait1.png</file>
+        <file>gfx/wait2.png</file>
+        <file>gfx/wait3.png</file>
+        <file>gfx/wait4.png</file>
+        <file>gfx/wait5.png</file>
+        <file>gfx/wait6.png</file>
+        <file>gfx/wait7.png</file>
+        <file>gfx/wait8.png</file>
+        <file>gfx/wait9.png</file>
+        <file>gfx/wait10.png</file>
+        <file>gfx/wait11.png</file>
+        <file>gfx/moonsplash10.png</file>
+    </qresource>
+</RCC>

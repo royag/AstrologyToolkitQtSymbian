@@ -1,0 +1,49 @@
+MainWindow {
+    background: black;
+    color: white;
+}
+
+QHWAstroChartView {
+  background: black;
+}
+
+InfoFrame {
+  background: rgba(0,0,0,160);
+}
+
+#tabAspects {
+    background: red;
+}
+
+#labelChartInfo1 {
+    color: white;
+}
+
+#labelChartInfo2 {
+    background: black;
+    color: gray;
+}
+
+#aspectInfoFrame {
+    background: black;
+}
+#aspectInfoFrameLabel {
+    background: black;
+    color: #DDDDDD;
+}
+
+#labelTime {
+    color:#DDDDDD;
+}
+#labelTime2 {
+    color:#DDDDDD;
+}
+#labelPlace {
+    color:#DDDDDD;
+}
+#labelZone {
+    color:#DDDDDD;
+}
+#labelHouse {
+    color:#DDDDDD;
+}

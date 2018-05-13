@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>astrodata/geodata/geodata.dat</file>
+        <file>astrodata/tz/tzall.dat</file>
+    </qresource>
+</RCC>
